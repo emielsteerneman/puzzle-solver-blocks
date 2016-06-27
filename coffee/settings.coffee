@@ -1,0 +1,18 @@
+window.conf = {
+	CANVAS_WIDTH 	: 1200
+	CANVAS_HEIGHT 	: 1000
+	CUBE_SIZE 		: 20
+	DEFAULT_COLOR	: {r: 128, g: 128, b: 128}
+	OFFSET_X 		: 600
+	OFFSET_Y 		: 400
+	GRID_SIZE 		: 30
+	CANVAS			: null
+	CTX				: null
+	TYPES			: {CUBE: 1, LINEX: 2, LINEY: 3, LINEZ: 4}
+	MOUSE_DOWN		: false
+	MOUSE_DOWN_X	: 0
+	MOUSE_DOWN_Y	: 0
+	MOUSE_MOVE_X	: 0
+	MOUSE_MOVE_Y	: 0
+	FPS				: 0.2
+}
